@@ -2,6 +2,7 @@
 
 Clustering celeberties and retrieving similar celeberty pages using KNN model trained on Wikipedia pages of many celeberties around the world.
 
-Tecnologies used:
-* Turicreate
-* Nearest Neigbour Algorithm For Clustering
+Tecnologies & Algorithms Used:
+* Turicreate.
+* Term Frequency Inverse Document Frequency formula claculation over the entire corpse of data.
+* Nearest Neigbour Algorithm For Clustering.
